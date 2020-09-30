@@ -25,7 +25,9 @@ int main() {
         cout<<sizeof(float)<<endl;
     }
 
-    
+    else if(cadena == "double"){
+        cout<<sizeof(double)<<endl;
+    }
 
     return 0;
 }

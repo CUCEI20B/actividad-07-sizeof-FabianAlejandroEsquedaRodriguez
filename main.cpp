@@ -29,5 +29,9 @@ int main() {
         cout<<sizeof(double)<<endl;
     }
 
+    else if(cadena == "long"){
+        cout<<sizeof(long)<<endl;
+    }
+
     return 0;
 }
